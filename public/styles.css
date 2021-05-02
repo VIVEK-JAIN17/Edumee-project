@@ -6,3 +6,11 @@
   color: #fff !important;
   text-decoration: none;
 }
+
+.nav-item > a {
+  color: #fff !important;
+}
+
+.nav-item:hover > a {
+  translate: 2px linear !important;
+}
